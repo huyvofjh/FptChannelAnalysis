@@ -1,10 +1,17 @@
 ## 1. Introduction
-- Show the Market Overview of Mobile World Group in Vietnam(Market Share, Net Revenue, Gross Profit, Stock Market…)
+- Show the statistical numbers of FPT's channels (subscribers, views, likes, comments...)
+- Identify the relationship between total views, likes and comments. 
+- Show the view distribution per channel, video duration, upload schedule and word cloud with video title. Answer the question: "How to improvve video perfomance?" 
 
 ## 2. Methodology 
 - Data Collection
-  - Crawl data from CafeF. [View](https://github.com/huyvofjh/MwgMarketAnalysis/blob/main/MwgMarketAnalysis/StockWebScraping.ipynb) to get details. 
-  - Collect data from [Vietstock](https://finance.vietstock.vn/MWG-mobile-world-investment-corporation.htm), [Investing.com](https://www.investing.com/equities/mobile-world-investment-corp) and other websites.
+  - Crawl data from Youtube API .  
+- Data Wrangling
+  - Cleaning data, changing data type, resolving null values... 
+
+[View](https://github.com/huyvofjh/FptChannelAnalysis/blob/main/FPTChannelsAnalysis.ipynb) to get details.
+
+ ## 3. Data Visualization  
   
 ![channel](https://user-images.githubusercontent.com/88859966/211520086-dfa51638-da9f-4aeb-8e06-984a8cf99287.jpg)
 ![bongda](https://user-images.githubusercontent.com/88859966/211520577-fb6e64bc-22a4-422b-a6d0-ba4b9335f5de.jpg)
