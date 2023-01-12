@@ -1,7 +1,7 @@
 ## 1. Introduction
 - Show the statistical numbers of FPT's channels (subscribers, views, likes, comments...)
 - Identify the relationship between total views vs total likes and total views vs total comments.
-- Show the view distribution per channel, video duration, upload schedule and word cloud with video title. Answer the question: "How to improvve video perfomance?" 
+- Show the view distribution per channel, video duration, upload schedule and word cloud with video title. Answer the question: "How to improvve video performance?" 
 
 ## 2. Methodology 
 - Data Collection
