@@ -53,8 +53,8 @@
 - In general the more people who watch the videos the more likes and comments.
 - According to word cloud chart, the main content on this channel is drama about school,student. Especially the channel focuses on producing short video. 
 - Although the channel ranks third in subscribers, the total views of this channel is only 2.3M. Two of the reasons are:
- - The number of videos on channel are small (only 137 videos)
- - The content is not diverse yet (mostly drama about school and student) 
+  - The number of videos on channel are small (only 137 videos)
+  - The content is not diverse yet (mostly drama about school and student) 
  
 => the channel needs to produce more videos and diversify the video content.  
 
