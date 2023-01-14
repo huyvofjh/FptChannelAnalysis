@@ -1,7 +1,7 @@
 ## 1. Introduction
 - Show the statistical numbers of FPT's channels (subscribers, views, likes, comments...)
 - Identify the relationship between total views vs total likes and total views vs total comments.
-- Show the view distribution per channel, video duration, upload schedule and word cloud with video title. Answer the question: "How to improvve video performance?" 
+- Show the view distribution per channel, video duration, upload schedule and word cloud with video title. Answer the question: "How to improve video performance?" 
 
 ## 2. Methodology 
 - Data Collection
@@ -17,9 +17,9 @@
   
 ![channel](https://user-images.githubusercontent.com/88859966/211520086-dfa51638-da9f-4aeb-8e06-984a8cf99287.jpg)
 - FPT has 7 channels. Total subscribers, total videos and total views are 2.6M, 7685 and 1.1B respectively until 10/01/2023
-- The football channels (FPT Bong Da and FPT Bong Da Viet) ranked first and second in subscribers and views. 
-- F Drama ranked third in subscribers but the total views of this channel is only 2.3M (lowest in the view list) 
-- The positive correlation between total views vs total subscribers and total views vs total video. 
+- The football channels (FPT Bong Da and FPT Bong Da Viet) rank first and second in subscribers and views. 
+- F Drama ranks third in subscribers but the total views of this channel is only 2.3M (lowest in the view list) 
+- The positive correlation between total views vs total subscribers and total views vs total videos. 
 => The channels which produce a lot of videos and have a lot of subscribers have a large number of views.
 
 
@@ -52,6 +52,11 @@
 - F Drama usually uploads video on Tuesday, Thursday and Sunday. 
 - In general the more people who watch the videos the more likes and comments.
 - According to word cloud chart, the main content on this channel is drama about school,student. Especially the channel focuses on producing short video. 
+- Although the channel ranks third in subscribers, the total views of this channel is only 2.3M. Two of the reasons are:
+ - The number of videos on channel are small (only 137 videos)
+ - The content is not diverse yet (mostly drama about school and student) 
+ 
+=> the channel needs to produce more videos and diversify the video content.  
 
 
 ![fsports](https://user-images.githubusercontent.com/88859966/211520890-b4f194b1-38e5-47f0-b8e6-6a7cceaa5e07.jpg)
@@ -71,7 +76,7 @@
 - Most videos are around 40 minutes. 
 - F Cine uploads regularly everyday of the week, especially Wednesday.  
 - In general the more people who watch the videos the more likes and comments.
-- According to word cloud chart, the main content on this channel is is series movie of China.
+- According to word cloud chart, the main content on this channel is series movie of China.
 
 
 ![fmusic](https://user-images.githubusercontent.com/88859966/211521101-e7f6bcb0-ec92-4f41-ae66-3989823d49b1.jpg)
@@ -81,7 +86,7 @@
 - Most videos are under 10 minutes. 
 - F Music usually uploads video on Monday, Tuesday and Wednesday. 
 - In general the more people who watch the videos the more likes and comments.
-- According to word cloud chart, the main content on this channel is show "Giao Lo Thoi Gian", the songs which is sung live and the channel focuses on producing short videos. 
+- According to word cloud chart, the main content on this channel is a show named "Giao Lo Thoi Gian", the songs which is sung live and the channel focuses on producing short videos. 
 
 
 ![fgiaitri](https://user-images.githubusercontent.com/88859966/211521113-7f55ecb5-6ab0-41e6-bfb8-d1f7aab20a57.jpg)
